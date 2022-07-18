@@ -1,0 +1,40 @@
+
+
+
+.logo {
+	width: 100px;
+	height: 100px;
+}
+
+.navbar-brand {
+	padding-left: 5px;
+}
+
+.title:hover {
+	background-color: black;
+}
+
+.bg-light{
+    background-color: white!important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+
+.nav-link:hover {
+	background-color: #ffd555;
+}
+
+
+.navbar-nav{
+	font-size: 20px;
+	
+}
+
+
+
+
+.collapse {
+	justify-content: center;
+}
